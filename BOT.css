@@ -1,0 +1,231 @@
+.q1{
+    display: flex;
+    background-color: blue;
+    width: 1905px;
+    height: 110px;
+    border-radius: 15px;
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,33,253,1) 50%, rgba(69,239,252,1) 100%);
+}
+.hotbartext2{
+    margin-right: 100px;
+    margin-top: 10px;
+    width: 127px;
+    height: 70px; 
+    font-family: cursive;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    background-color: rgb(0, 0, 0,0.0);
+    border-radius: 50%;
+    padding-bottom: 20px;
+    color: rgb(255, 255, 255);
+    border-color: black;
+    -webkit-text-stroke: 2px rgb(255, 0, 0);
+    
+}
+.hotbar{
+    margin-top: 4px;
+    margin-right: 300px;
+    margin-left: 10px;
+    
+}
+.bg{
+    background-color: blue;
+    width: 500px;
+    height: 100px;
+}
+.hotbartext2:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    width: 127px;
+    height: 70px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    transition: all;
+    transition-duration: 0.5s;
+    color: rgb(255, 0, 0);
+    transform: scale(1.1);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.r4{
+    margin-top: 10px;
+    
+}
+.t5{
+    border-radius: 15px;
+    
+}
+.hotbartext3{
+    margin-right: 100px;
+    margin-top: 10px;
+    width: 127px;
+    height: 70px; 
+    font-family: cursive;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    background-color: rgb(0, 0, 0,0.0);
+    border-radius: 50%;
+    padding-bottom: 20px;
+    color: rgb(255, 255, 255);
+    border-color: black;
+    -webkit-text-stroke: 2px rgb(255, 115, 0);
+    
+}
+.hotbartext3:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    width: 127px;
+    height: 70px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    transition: all;
+    transition-duration: 0.5s;
+    color: rgb(255, 115, 0);
+    transform: scale(1.1);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.hotbartext4{
+    margin-right: 100px;
+    margin-top: 10px;
+    width: 127px;
+    height: 70px; 
+    font-family: cursive;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    background-color: rgb(0, 0, 0,0.0);
+    border-radius: 50%;
+    padding-bottom: 20px;
+    color: rgb(255, 255, 255);
+    border-color: black;
+    -webkit-text-stroke: 2px rgb(255, 208, 0);
+    
+}
+.hotbartext4:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    width: 127px;
+    height: 70px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    transition: all;
+    transition-duration: 0.5s;
+    color: rgb(255, 208, 0);
+    transform: scale(1.1);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.hotbartext5{
+    margin-right: 100px;
+    margin-top: 10px;
+    width: 127px;
+    height: 70px; 
+    font-family: cursive;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    background-color: rgb(0, 0, 0,0.0);
+    border-radius: 50%;
+    padding-bottom: 20px;
+    color: rgb(255, 255, 255);
+    border-color: black;
+    -webkit-text-stroke: 2px rgb(255, 115, 0);
+    
+}
+.hotbartext5:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    width: 127px;
+    height: 70px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    transition: all;
+    transition-duration: 0.5s;
+    color: rgb(255, 115, 0);
+    transform: scale(1.1);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.hotbartext6{
+    margin-right: 100px;
+    margin-top: 10px;
+    width: 127px;
+    height: 70px; 
+    font-family: cursive;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    background-color: rgb(0, 0, 0,0.0);
+    border-radius: 50%;
+    padding-bottom: 20px;
+    color: rgb(255, 255, 255);
+    border-color: black;
+    -webkit-text-stroke: 2px rgb(255, 0, 0);
+    
+}
+.hotbartext6:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    width: 127px;
+    height: 70px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    transition: all;
+    transition-duration: 0.5s;
+    color: rgb(255, 0, 0);
+    transform: scale(1.1);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    
+}
+.y6{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 120px;
+    position: absolute;
+    left: 50px;
+    top: 300px;
+    color: white;
+    
+    font-weight: bold;
+    background-image: linear-gradient(to right, #ff0000, #ff9900); 
+    -webkit-background-clip: text        ; 
+    background-clip: text;        
+    color: transparent;                 
+}
+.u7{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 54px;
+    position: absolute;
+    left: 55px;
+    top: 480px;
+    color: white;
+    
+    font-weight: bold;
+    background-image: linear-gradient(to right, #ff0000, #ff9900); 
+    -webkit-background-clip: text        ; 
+    background-clip: text;        
+    color: transparent;
+}
+a{
+    all:unset
+}

@@ -1,0 +1,368 @@
+body{
+    background-image: url("https://i.tlauncher.org/images/wizard-tower-screenshots-8.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.q1{
+    display: flex;
+    background-color: blue;
+    width: 1905px;
+    height: 110px;
+    border-radius: 15px;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,33,253,1) 50%, rgba(69,239,252,1) 100%);
+}
+.hotbar{
+    margin-top: 4px;
+    margin-right: 300px;
+    margin-left: 10px;
+}
+.hotbartext2{
+    margin-right: 100px;
+    margin-top: 10px;
+    width: 127px;
+    height: 70px; 
+    font-family: cursive;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    background-color: rgb(0, 0, 0,0.0);
+    border-radius: 50%;
+    padding-bottom: 20px;
+    color: rgb(255, 255, 255);
+    border-color: black;
+    -webkit-text-stroke: 2px rgb(255, 0, 0);
+    text-decoration: none;
+}
+.hotbartext2:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    width: 127px;
+    height: 70px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    transition: all;
+    transition-duration: 0.5s;
+    color: rgb(255, 0, 0);
+    transform: scale(1.1);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+.hotbartext3{
+    margin-right: 100px;
+    margin-top: 10px;
+    width: 127px;
+    height: 70px; 
+    font-family: cursive;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    background-color: rgb(0, 0, 0,0.0);
+    border-radius: 50%;
+    padding-bottom: 20px;
+    color: rgb(255, 255, 255);
+    border-color: black;
+    -webkit-text-stroke: 2px rgb(255, 115, 0);
+    
+}
+.hotbartext3:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    width: 127px;
+    height: 70px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    transition: all;
+    transition-duration: 0.5s;
+    color: rgb(255, 115, 0);
+    transform: scale(1.1);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.hotbartext4{
+    margin-right: 100px;
+    margin-top: 10px;
+    width: 127px;
+    height: 70px; 
+    font-family: cursive;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    background-color: rgb(0, 0, 0,0.0);
+    border-radius: 50%;
+    padding-bottom: 20px;
+    color: rgb(255, 255, 255);
+    border-color: black;
+    -webkit-text-stroke: 2px rgb(255, 208, 0);
+    
+}
+.hotbartext4:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    width: 127px;
+    height: 70px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    transition: all;
+    transition-duration: 0.5s;
+    color: rgb(255, 208, 0);
+    transform: scale(1.1);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.hotbartext5{
+    margin-right: 100px;
+    margin-top: 10px;
+    width: 127px;
+    height: 70px; 
+    font-family: cursive;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    background-color: rgb(0, 0, 0,0.0);
+    border-radius: 50%;
+    padding-bottom: 20px;
+    color: rgb(255, 255, 255);
+    border-color: black;
+    -webkit-text-stroke: 2px rgb(255, 115, 0);
+    
+}
+.hotbartext5:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    width: 127px;
+    height: 70px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    transition: all;
+    transition-duration: 0.5s;
+    color: rgb(255, 115, 0);
+    transform: scale(1.1);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.hotbartext6{
+    margin-right: 100px;
+    margin-top: 10px;
+    width: 127px;
+    height: 70px; 
+    font-family: cursive;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    background-color: rgb(0, 0, 0,0.0);
+    border-radius: 50%;
+    padding-bottom: 20px;
+    color: rgb(255, 255, 255);
+    border-color: black;
+    -webkit-text-stroke: 2px rgb(255, 0, 0);
+    text-decoration: none;
+}
+.hotbartext6:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    width: 127px;
+    height: 70px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    transition: all;
+    transition-duration: 0.5s;
+    color: rgb(255, 0, 0);
+    transform: scale(1.1);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+a{
+    all:unset
+}
+.onepunkti{
+   width: 1700px;
+   height: 100px;
+   box-shadow:0px 0px 15px black;
+   border-radius: 20px;
+   margin-top: 100px;
+   background: linear-gradient(135deg,#ff0000,#ff9900,#ff0000,#ff9900);
+   padding-left: 10px;
+   padding-top: 5px;
+}
+.text{
+   font-family: cursive;
+   font-size: 60px;
+   margin-left: 6px;
+}
+.textsettings{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    
+}
+.onepunkti:hover{
+    width: 1700px;
+    height: 100px;
+    box-shadow:0px 0px 15px black;
+    border-radius: 20px;
+    margin-top: 100px;
+    transition: all;
+    transform: scale(1.05);
+    background-color: white;
+    transition-duration: 0.3s;
+    z-index: 1;
+}
+.twopunkti{
+    width: 1700px;
+    height: 100px;
+    box-shadow:0px 0px 15px black;
+    border-radius: 20px;
+    margin-top: 30px;
+    background: linear-gradient(135deg,#ff0000,#ff9900,#ff0000,#ff9900);
+    padding-left: 10px;
+   padding-top: 5px;
+ }
+ .twopunkti:hover{
+     width: 1700px;
+     height: 100px;
+     box-shadow:0px 0px 15px black;
+     border-radius: 20px;
+     margin-top: 30px;
+     transition: all;
+     transform: scale(1.05);
+     background-color: white;
+     transition-duration: 0.3s;
+     z-index: 1;
+ }
+ .threepunkti{
+    width: 1700px;
+    height: 100px;
+    box-shadow:0px 0px 15px black;
+    border-radius: 20px;
+    margin-top: 30px;
+    background: linear-gradient(135deg,#ff0000,#ff9900,#ff0000,#ff9900);
+    padding-left: 10px;
+   padding-top: 5px;
+ }
+ .threepunkti:hover{
+     width: 1700px;
+     height: 100px;
+     box-shadow:0px 0px 15px black;
+     border-radius: 20px;
+     margin-top: 30px;
+     transition: all;
+     transform: scale(1.05);
+     background-color: white;
+     transition-duration: 0.3s;
+     z-index: 1;
+ }
+ .fourpunkti{
+    width: 1700px;
+    height: 100px;
+    box-shadow:0px 0px 15px black;
+    border-radius: 20px;
+    margin-top: 30px;
+    background: linear-gradient(135deg,#ff0000,#ff9900,#ff0000,#ff9900);
+    padding-left: 10px;
+   padding-top: 5px;
+ }
+ .fourpunkti:hover{
+     width: 1700px;
+     height: 100px;
+     box-shadow:0px 0px 15px black;
+     border-radius: 20px;
+     margin-top: 30px;
+     transition: all;
+     transform: scale(1.05);
+     background-color: white;
+     transition-duration: 0.3s;
+     z-index: 1;
+ }
+ .fivepunkti{
+    width: 1700px;
+    height: 100px;
+    box-shadow:0px 0px 15px black;
+    border-radius: 20px;
+    margin-top: 30px;
+    background: linear-gradient(135deg,#ff0000,#ff9900,#ff0000,#ff9900);
+    padding-left: 10px;
+   padding-top: 5px;
+ }
+ .fivepunkti:hover{
+     width: 1700px;
+     height: 100px;
+     box-shadow:0px 0px 15px black;
+     border-radius: 20px;
+     margin-top: 30px;
+     transition: all;
+     transform: scale(1.05);
+     background-color: white;
+     transition-duration: 0.3s;
+     z-index: 1;
+     
+ }
+
+.punktmenu{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.text2{
+    font-family: cursive;
+    font-size: 60px;
+    
+ }
+ .textsettings2{
+     height: 100%;
+     display: flex;
+     align-items: center;
+     
+ }
+ .text3{
+    font-family: cursive;
+    font-size: 60px;
+    margin-left: 20px;
+ }
+ .textsettings3{
+     height: 100%;
+     display: flex;
+     align-items: center;
+     
+ }
+ .text4{
+    font-family: cursive;
+    font-size: 60px;
+    margin-left: 10px;
+ }
+ .textsettings4{
+     height: 100%;
+     display: flex;
+     align-items: center;
+     
+ }
+ .text5{
+    font-family: cursive;
+    font-size: 60px;
+    
+ }
+ .textsettings5{
+     height: 100%;
+     display: flex;
+     align-items: center;
+     
+ }
